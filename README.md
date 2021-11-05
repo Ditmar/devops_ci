@@ -1,2 +1,2 @@
 # devops_ci
-Continuos integratons course Test example system.
+Continuous integratons course Test example system.
